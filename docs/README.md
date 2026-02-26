@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on analyzing supply chain data using MySQL to generate actionable business insights related to delivery performance, profitability, and operational efficiency. It demonstrates an end-to-end data analysis workflow, including data cleaning, data modeling, and advanced SQL analysis.
+This project simulates the role of a data analyst working on supply chain optimization using SQL to generate actionable business insights related to delivery performance, profitability, and operational efficiency. It demonstrates an end-to-end data analysis workflow, including data cleaning, data modeling, and advanced SQL analysis.
 
 ---
 
