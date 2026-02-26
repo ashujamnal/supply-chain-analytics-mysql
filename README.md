@@ -129,7 +129,6 @@ To improve query performance:
 
 * data/ — cleaned dataset
 * sql/ — staging, schema, analysis, and optimization scripts
-* docs/ — supporting documentation
 
 ---
 
